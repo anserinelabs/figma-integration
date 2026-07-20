@@ -1,0 +1,4 @@
+.env
+.figma-oauth.json
+dist
+node_modules

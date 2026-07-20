@@ -1,0 +1,3 @@
+figma.slashwork.net {
+	reverse_proxy localhost:3335
+}
